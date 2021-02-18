@@ -1,0 +1,10 @@
+babel
+python-dateutil==2.6.0
+flask-moment
+flask-wtf
+flask
+flask-sqlalchemy
+Flask-Migrate
+Flask-Script
+psycopg2-binary
+psycopg2
